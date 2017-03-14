@@ -1,0 +1,19 @@
+.img_Folder{
+   width:200px;
+   height:100px;
+}
+.modal-body{
+   width: 2000px;
+   height: 300px;
+}
+.modal-content{
+  width:2000px;
+  position: fixed;
+  height:auto;
+}
+body{
+  width: 100vw;
+}
+#myModal{
+  display:none;
+}
